@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@100&display=swap');
+
+#titulo {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 24px;
+  color: #9395D3;
+}
+
+#corpo {
+  color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+#linha-horizontal {
+  width: 500px;
+  border: 1px solid #181818;
+  border-radius: 500px;
+}
+
+.navbar {
+  background-color: #181818;
+  position: absolute;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+}
+
+
+.labelnav {
+  color: #A2A3BB;
+  position: absolute;
+  top: 0.6rem;
+  left: 6%;
+  font-size: 24px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.codeicon {
+  margin-left: 2%;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.mainhugo {
+
+  margin-left: 5%;
+
+}
+
+.hugoicon {
+  border-radius: 200px;
+  position: absolute;
+  top: 10%;
+  left: 14%;
+}
+
+.Hugofriedrich {
+  position: absolute;
+  top: 30%;
+  left: 14.5%;
+
+}
+
+.yagoicon {
+  border-radius: 200px;
+  position: absolute;
+  top: 10%;
+  right: 20%;
+}
+
+.Yagoaraujo {
+  position: absolute;
+  top: 30%;
+  right: 21.4%;
+}
+
+.linha1 {
+  position: absolute;
+  top: 35%;
+  left: 3%;
+}
+
+.linha2 {
+  position: absolute;
+  top: 35%;
+  right: 11%;
+}
+
+.curso {
+  position: absolute;
+  top: 36%;
+  left: 5%;
+}
+
+.curso2 {
+  position: absolute;
+  top: 36%;
+  right: 34.3%;
+}
+
+.cursolabel {
+  position: absolute;
+  top: 40%;
+  left: 5%;
+}
+
+.cursolabel2 {
+  position: absolute;
+  top: 40%;
+  right: 24.2%;
+}
+
+.linha3 {
+  position: absolute;
+  top: 45%;
+  left: 3%;
+}
+
+.linha4 {
+  position: absolute;
+  top: 45%;
+  right: 11%;
+}
+
+.objetivo {
+  position: absolute;
+  top: 46%;
+  left: 5%;
+}
+
+.objetivo2 {
+  position: absolute;
+  top: 46%;
+  right: 26.7%;
+}
+
+.objetivolabel {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  width: 470px;
+}
+
+.objetivolabel2 {
+  position: absolute;
+  top: 50%;
+  right: 10.7%;
+  width: 470px;
+}
+
+.linha5 {
+  position: absolute;
+  top: 57%;
+  left: 3%;
+}
+
+.linha6 {
+  position: absolute;
+  top: 57%;
+  right: 11%;
+}
+
+.hobbies {
+  position: absolute;
+  top: 58%;
+  left: 5%;
+}
+
+.hobbies2 {
+  position: absolute;
+  top: 58%;
+  right: 33%;
+}
+
+.hobbieslabel {
+  position: absolute;
+  top: 62%;
+  left: 5%;
+}
+
+.hobbieslabel2 {
+  position: absolute;
+  top: 62%;
+  right: 19%;
+}
+
+.linha7 {
+  position: absolute;
+  top: 67%;
+  left: 3%;
+}
+
+.linha8 {
+  position: absolute;
+  top: 67%;
+  right: 11%;
+}
+
+.contatos {
+  position: absolute;
+  top: 70%;
+  left: 5%;
+}
+
+.contatos2 {
+
+  position: absolute;
+  top: 70%;
+  right: 32.7%;
+}
+
+.parte1 {
+  position: absolute;
+  top: 75%;
+  left: 4.8%;
+}
+
+.parte2 {
+  position: absolute;
+  top: 75%;
+  right: 36%;
+}
+
+.githublabel {
+  position: absolute;
+  top: 6%;
+  margin-left: 20%;
+}
+
+.githublabel2 {
+  position: absolute;
+  top: 6%;
+  margin-left: 20%;
+  white-space: nowrap;
+}
+
+.linkedinlabel {
+  position: absolute;
+  display: inline-block;
+  white-space: nowrap;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.linkedinlabel2 {
+  position: absolute;
+  display: inline-block;
+  white-space: nowrap;
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.github {
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
